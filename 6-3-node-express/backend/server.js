@@ -2,7 +2,7 @@
 import express from "express";
 const app =express();
 // TODO 1: Define server port
-const PROT=3000;
+const PORT=3000;
 
 // TODO 4: Import and Apply CORS middleware
 import cors from "cors";
