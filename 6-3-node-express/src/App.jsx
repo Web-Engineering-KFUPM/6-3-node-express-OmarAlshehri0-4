@@ -12,7 +12,7 @@ LAB SETUP INSTRUCTIONS
       cd 6-3-node-express-main
 
 2. Install project dependencies:
-   Run either of these commands:
+   Run either of these commands: 
       - npm i
         OR
       - npm install
